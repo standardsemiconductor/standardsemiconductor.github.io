@@ -1,2 +1,0 @@
-# standardsemiconductor.github.io
-Website
